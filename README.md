@@ -1,2 +1,2 @@
 # End-to-end EDA-Project
-This project folds open right from scraping real time data (from various e-commerce sites) and performing data cleaning, bringing useful insights with beautiful visualisations.
+This project begins with scraping real-time data (from various e-commerce sites), followed by data cleaning, analysis, and the presentation of useful insights through beautiful visualisations.
